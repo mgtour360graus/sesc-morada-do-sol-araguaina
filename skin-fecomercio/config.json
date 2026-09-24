@@ -1,0 +1,428 @@
+{
+  "version": "4.3.2-morada-do-sol-2026-09-24",
+  "brand": {
+    "systemName": "SISTEMA FECOMÉRCIO",
+    "tourName": "Sesc Morada do Sol - Araguaína, Tocantins - TOUR 360°",
+    "unitName": "Sesc Morada do Sol - Araguaína",
+    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "colors": {
+      "blue": "#004C99",
+      "blueDark": "#003865",
+      "blueLight": "#0B78BF",
+      "yellow": "#F6BE00",
+      "gray": "#747678",
+      "white": "#FFFFFF"
+    }
+  },
+  "homeIndex": 0,
+  "intro": {
+    "eyebrow": "360° · VISITA VIRTUAL",
+    "title": "Explore do seu jeito.",
+    "description": "Um passeio imersivo pelo Sesc Morada do Sol, em Araguaína. Escolha como navegar e descubra os ambientes.",
+    "background": "media/panorama_C4B9611F_D522_6B98_41D1_4BDF56A393F6_hd_t.jpg",
+    "desktopGuide": "skin-fecomercio/assets/mouse-desktop.apng.png",
+    "mobileGuide": "skin-fecomercio/assets/gestos-mobile.apng.png"
+  },
+  "map": {
+    "title": "Localização · Sesc Morada do Sol, Araguaína",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5958.191085426154!2d-48.17883048792582!3d-7.197053592778296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92d90c11719b8e65%3A0xdd94ac291b80a485!2sSesc%20Unidade%20Morada%20do%20Sol!5e1!3m2!1spt-BR!2sbr!4v1790290113040!5m2!1spt-BR!2sbr"
+  },
+  "contact": {
+    "phoneLabel": "(63) 3416-0150",
+    "phoneUrl": "tel:+556334160150",
+    "website": "https://www.sescto.com.br/"
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/sesctocantins/",
+      "accent": "#E1306C"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/sescto",
+      "accent": "#1877F2"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@SESCTO",
+      "accent": "#FF0000"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/sesctocantins/?originalSubdomain=br",
+      "accent": "#0A66C2"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/SescTO",
+      "accent": "#111111"
+    }
+  ],
+  "groups": [
+    {
+      "id": "geral",
+      "number": "01",
+      "short": "Geral",
+      "title": "Vistas & Entrada",
+      "eyebrow": "Sesc Morada do Sol · Araguaína",
+      "description": "Comece pelas vistas aéreas e conheça a entrada, os halls e os pátios da unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
+        {
+          "label": "Vista aérea da unidade",
+          "index": 0
+        },
+        {
+          "label": "Vista aérea — altitude maior",
+          "index": 1
+        },
+        {
+          "label": "Entrada principal",
+          "index": 2
+        },
+        {
+          "label": "Hall de entrada",
+          "index": 7
+        },
+        {
+          "label": "Pátio — vista 1",
+          "index": 12
+        }
+      ]
+    },
+    {
+      "id": "educacao",
+      "number": "02",
+      "short": "Educação",
+      "title": "Leitura & Salas de Aula",
+      "eyebrow": "Sesc Morada do Sol · Araguaína",
+      "description": "Explore as salas de leitura e de aula da unidade.",
+      "accent": "#12A7BB",
+      "surface": "#DDFBFF",
+      "destinations": [
+        {
+          "label": "Entrada da sala de leitura",
+          "index": 4
+        },
+        {
+          "label": "Sala de leitura — vista 1",
+          "index": 5
+        },
+        {
+          "label": "Sala de aula 1 — vista 1",
+          "index": 27
+        },
+        {
+          "label": "Sala de aula 2 — vista 1",
+          "index": 29
+        },
+        {
+          "label": "Sala de aula 3 — vista 1",
+          "index": 31
+        },
+        {
+          "label": "Sala de aula 4",
+          "index": 33
+        }
+      ]
+    },
+    {
+      "id": "convivencia",
+      "number": "03",
+      "short": "Convivência",
+      "title": "Convivência & Multiuso",
+      "eyebrow": "Sesc Morada do Sol · Araguaína",
+      "description": "Conheça as salas multiuso e o refeitório.",
+      "accent": "#E88715",
+      "surface": "#FFF1DD",
+      "destinations": [
+        {
+          "label": "Sala multiuso — vista 1",
+          "index": 18
+        },
+        {
+          "label": "Sala multiuso — vista 2",
+          "index": 19
+        },
+        {
+          "label": "Refeitório",
+          "index": 26
+        }
+      ]
+    },
+    {
+      "id": "piscinas",
+      "number": "04",
+      "short": "Piscinas",
+      "title": "Piscinas",
+      "eyebrow": "Sesc Morada do Sol · Araguaína",
+      "description": "Veja as diferentes panorâmicas das piscinas.",
+      "accent": "#DBA900",
+      "surface": "#FFF9D8",
+      "destinations": [
+        {
+          "label": "Piscina — vista 1",
+          "index": 14
+        },
+        {
+          "label": "Piscina — vista 2",
+          "index": 15
+        },
+        {
+          "label": "Piscina — vista 3",
+          "index": 16
+        },
+        {
+          "label": "Piscina — vista 4",
+          "index": 17
+        }
+      ]
+    },
+    {
+      "id": "quadras",
+      "number": "05",
+      "short": "Esporte",
+      "title": "Quadras & Esporte",
+      "eyebrow": "Sesc Morada do Sol · Araguaína",
+      "description": "Percorra as quadras e a área de areia.",
+      "accent": "#43A047",
+      "surface": "#E4F8E7",
+      "destinations": [
+        {
+          "label": "Quadra de areia — vista 1",
+          "index": 20
+        },
+        {
+          "label": "Quadra de areia — vista 2",
+          "index": 21
+        },
+        {
+          "label": "Corredor de acesso à quadra",
+          "index": 22
+        },
+        {
+          "label": "Quadra — vista 1",
+          "index": 23
+        },
+        {
+          "label": "Quadra — vista 2",
+          "index": 24
+        },
+        {
+          "label": "Quadra — vista 3",
+          "index": 25
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "index": 0,
+      "name": "Vista aérea da unidade",
+      "group": "geral",
+      "thumb": "media/panorama_C4B9611F_D522_6B98_41D1_4BDF56A393F6_t.webp"
+    },
+    {
+      "index": 1,
+      "name": "Vista aérea — altitude maior",
+      "group": "geral",
+      "thumb": "media/panorama_C5FF6E19_D522_5999_41E6_5484C3619C2C_t.webp"
+    },
+    {
+      "index": 2,
+      "name": "Entrada principal",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE2CE5_D4EE_3AA9_41DA_C18C8B7BD354_t.webp"
+    },
+    {
+      "index": 3,
+      "name": "Corredor de acesso",
+      "group": "geral",
+      "thumb": "media/panorama_D9F1CDDD_D4EE_5A99_41CF_204F58990ACD_t.webp"
+    },
+    {
+      "index": 4,
+      "name": "Entrada da sala de leitura",
+      "group": "educacao",
+      "thumb": "media/panorama_D9FEB921_D4E1_DBA9_41E7_1758BA30FF63_t.webp"
+    },
+    {
+      "index": 5,
+      "name": "Sala de leitura — vista 1",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F35A9C_D4E2_3E9F_41D3_8EAADBE90932_t.webp"
+    },
+    {
+      "index": 6,
+      "name": "Sala de leitura — vista 2",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F09099_D4E2_2A99_41E5_0FD8F9A9ACB9_t.webp"
+    },
+    {
+      "index": 7,
+      "name": "Hall de entrada",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE8F53_D4E1_D7E9_41E2_8761AAD100F0_t.webp"
+    },
+    {
+      "index": 8,
+      "name": "Hall interno",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE655F_D4E1_EB98_41E5_76490FBD481E_t.webp"
+    },
+    {
+      "index": 9,
+      "name": "Lateral da escola — vista 2",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE6BB0_D4E1_FEA8_41D6_9E2DDA47A9F4_t.webp"
+    },
+    {
+      "index": 10,
+      "name": "Lateral da escola — vista 1",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE41F0_D4E1_EAA7_41CB_F83BF991B0E9_t.webp"
+    },
+    {
+      "index": 11,
+      "name": "Vista lateral da unidade",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE582F_D4E1_D9B9_41E2_4040F6DAA5F3_t.webp"
+    },
+    {
+      "index": 12,
+      "name": "Pátio — vista 1",
+      "group": "geral",
+      "thumb": "media/panorama_D9FE2EA3_D4E1_D6A9_41D4_A7135FD67D3A_t.webp"
+    },
+    {
+      "index": 13,
+      "name": "Pátio — vista 2",
+      "group": "geral",
+      "thumb": "media/panorama_D9FDE514_D4E2_2B6F_41D0_3737AB025B38_t.webp"
+    },
+    {
+      "index": 14,
+      "name": "Piscina — vista 1",
+      "group": "piscinas",
+      "thumb": "media/panorama_D9F24BEB_D4E2_3EB9_419B_2126E071384D_t.webp"
+    },
+    {
+      "index": 15,
+      "name": "Piscina — vista 2",
+      "group": "piscinas",
+      "thumb": "media/panorama_D9F2022B_D4E2_29B9_41AB_B92C3A324A81_t.webp"
+    },
+    {
+      "index": 16,
+      "name": "Piscina — vista 3",
+      "group": "piscinas",
+      "thumb": "media/panorama_D9F2286B_D4E2_59B9_41E0_EC0B4108A473_t.webp"
+    },
+    {
+      "index": 17,
+      "name": "Piscina — vista 4",
+      "group": "piscinas",
+      "thumb": "media/panorama_D9F22EAA_D4E2_56BB_41E2_7848217ECEB2_t.webp"
+    },
+    {
+      "index": 18,
+      "name": "Sala multiuso — vista 1",
+      "group": "convivencia",
+      "thumb": "media/panorama_D9F09695_D4E2_2969_41E0_C94605734EA1_t.webp"
+    },
+    {
+      "index": 19,
+      "name": "Sala multiuso — vista 2",
+      "group": "convivencia",
+      "thumb": "media/panorama_D9F0CC83_D4E2_5969_41A4_798A1432E25B_t.webp"
+    },
+    {
+      "index": 20,
+      "name": "Quadra de areia — vista 1",
+      "group": "quadras",
+      "thumb": "media/panorama_D9F244E9_D4E2_6AB8_41E9_D283F1D3BB1E_t.webp"
+    },
+    {
+      "index": 21,
+      "name": "Quadra de areia — vista 2",
+      "group": "quadras",
+      "thumb": "media/panorama_D9F27B1A_D4E2_7F9B_41CE_5342515E9E1A_t.webp"
+    },
+    {
+      "index": 22,
+      "name": "Corredor de acesso à quadra",
+      "group": "quadras",
+      "thumb": "media/panorama_D989BCF2_D4EE_7AAB_41C4_E84806D7316F_t.webp"
+    },
+    {
+      "index": 23,
+      "name": "Quadra — vista 1",
+      "group": "quadras",
+      "thumb": "media/panorama_D9F2B1CC_D4E2_6AF8_41E9_72E01C485794_t.webp"
+    },
+    {
+      "index": 24,
+      "name": "Quadra — vista 2",
+      "group": "quadras",
+      "thumb": "media/panorama_D9F297FE_D4E2_569B_41CE_9D85EE7D6FF3_t.webp"
+    },
+    {
+      "index": 25,
+      "name": "Quadra — vista 3",
+      "group": "quadras",
+      "thumb": "media/panorama_D9F2EE2D_D4E2_59B9_41D0_951F75939517_t.webp"
+    },
+    {
+      "index": 26,
+      "name": "Refeitório",
+      "group": "convivencia",
+      "thumb": "media/panorama_D9F2944B_D4E2_29F8_41CB_22E62DB6C423_t.webp"
+    },
+    {
+      "index": 27,
+      "name": "Sala de aula 1 — vista 1",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F2BA5A_D4E2_399B_41E2_1C7C3B4DDB9F_t.webp"
+    },
+    {
+      "index": 28,
+      "name": "Sala de aula 1 — vista 2",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F3E995_D4E2_DB69_41C0_D7731D293989_t.webp"
+    },
+    {
+      "index": 29,
+      "name": "Sala de aula 2 — vista 1",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F357FB_D4E2_F699_41D9_8E952CB89F1F_t.webp"
+    },
+    {
+      "index": 30,
+      "name": "Sala de aula 2 — vista 2",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F361EE_D4E2_EABB_41E2_579F130A5E0C_t.webp"
+    },
+    {
+      "index": 31,
+      "name": "Sala de aula 3 — vista 1",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F3383F_D4E2_D998_41D3_2EBE89C99692_t.webp"
+    },
+    {
+      "index": 32,
+      "name": "Sala de aula 3 — vista 2",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F32EA1_D4E2_D6A9_41CC_C045F986E8BE_t.webp"
+    },
+    {
+      "index": 33,
+      "name": "Sala de aula 4",
+      "group": "educacao",
+      "thumb": "media/panorama_D9F3148E_D4E2_297B_41D3_A27518772872_t.webp"
+    }
+  ]
+}

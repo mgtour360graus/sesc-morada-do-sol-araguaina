@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preserve os bytes exportados pelo 3DVista (inclusive fins de linha).
+# A skin e o HTML também são publicados exatamente como foram testados.
+* -text

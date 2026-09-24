@@ -1,0 +1,62 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C3DA53C8_D562_6EE7_41DA_8A1310C486AD.source = https://mgtour360.com.br/
+
+## Media
+
+### Audio
+audiores_C21DFD51_D522_7BE8_41E2_0FE61392BF09.url = media/audio_C295B64C_D561_E9F8_41DE_2FDCAC482C69_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_D989BCF2_D4EE_7AAB_41C4_E84806D7316F.label = Corredor Acesso à Quadra
+panorama_D9F1CDDD_D4EE_5A99_41CF_204F58990ACD.label = Corredor de Acesso
+panorama_D9FE2CE5_D4EE_3AA9_41DA_C18C8B7BD354.label = Entrada Principal
+panorama_D9FEB921_D4E1_DBA9_41E7_1758BA30FF63.label = Entrada Sala de Leitura
+panorama_D9FE655F_D4E1_EB98_41E5_76490FBD481E.label = Hall Interno
+panorama_D9FE8F53_D4E1_D7E9_41E2_8761AAD100F0.label = Hall de Entrada
+panorama_D9FE41F0_D4E1_EAA7_41CB_F83BF991B0E9.label = Lateral da Escola
+panorama_D9FE6BB0_D4E1_FEA8_41D6_9E2DDA47A9F4.label = Lateral da Escola 2
+panorama_D9FE582F_D4E1_D9B9_41E2_4040F6DAA5F3.label = Outra Lateral
+panorama_D9F24BEB_D4E2_3EB9_419B_2126E071384D.label = Piscina_A
+panorama_D9F2022B_D4E2_29B9_41AB_B92C3A324A81.label = Piscina_B
+panorama_D9F2286B_D4E2_59B9_41E0_EC0B4108A473.label = Piscina_C
+panorama_D9F22EAA_D4E2_56BB_41E2_7848217ECEB2.label = Piscina_D
+panorama_D9FE2EA3_D4E1_D6A9_41D4_A7135FD67D3A.label = Pátio 01
+panorama_D9FDE514_D4E2_2B6F_41D0_3737AB025B38.label = Pátio 02
+panorama_D9F244E9_D4E2_6AB8_41E9_D283F1D3BB1E.label = Quadra de Areia_A
+panorama_D9F27B1A_D4E2_7F9B_41CE_5342515E9E1A.label = Quadra de Areia_B
+panorama_D9F2B1CC_D4E2_6AF8_41E9_72E01C485794.label = Quadra_A
+panorama_D9F297FE_D4E2_569B_41CE_9D85EE7D6FF3.label = Quadra_B
+panorama_D9F2EE2D_D4E2_59B9_41D0_951F75939517.label = Quadra_C
+panorama_D9F2944B_D4E2_29F8_41CB_22E62DB6C423.label = Refeitório
+panorama_D9F09695_D4E2_2969_41E0_C94605734EA1.label = Sala Multiuso_A
+panorama_D9F0CC83_D4E2_5969_41A4_798A1432E25B.label = Sala Multiuso_B
+panorama_D9F2BA5A_D4E2_399B_41E2_1C7C3B4DDB9F.label = Sala de Aula 01_A
+panorama_D9F3E995_D4E2_DB69_41C0_D7731D293989.label = Sala de Aula 01_B
+panorama_D9F357FB_D4E2_F699_41D9_8E952CB89F1F.label = Sala de Aula 02_A
+panorama_D9F361EE_D4E2_EABB_41E2_579F130A5E0C.label = Sala de Aula 02_B
+panorama_D9F3148E_D4E2_297B_41D3_A27518772872.label = Sala de Aula 04
+panorama_D9F3383F_D4E2_D998_41D3_2EBE89C99692.label = Sala de Aula 3_A
+panorama_D9F32EA1_D4E2_D6A9_41CC_C045F986E8BE.label = Sala de Aula 3_B
+panorama_D9F35A9C_D4E2_3E9F_41D3_8EAADBE90932.label = Sala de Leitura_A
+panorama_D9F09099_D4E2_2A99_41E5_0FD8F9A9ACB9.label = Sala de Leitura_B
+panorama_C4B9611F_D522_6B98_41D1_4BDF56A393F6.label = Vista Aérea
+panorama_C5FF6E19_D522_5999_41E6_5484C3619C2C.label = vista Aéra Alto
+
+## Right Click Menu
+
+### Text
+menuItem_C08C3299_D562_6E99_41AE_DF9E481C1673.label = BY MG TOUR 360 GRAUS
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360°
+
+### Title
+tour.name = Sesc Morada do Sol - Araguaína
