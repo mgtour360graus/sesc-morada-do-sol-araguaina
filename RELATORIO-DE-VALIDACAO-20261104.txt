@@ -1,0 +1,30 @@
+SESC MORADA DO SOL - ARAGUAÍNA
+VALIDAÇÃO DA PUBLICAÇÃO 2026-11-04
+
+Projeto nativo ajustado: Sesc Morada do Sol-AJUSTES-20261104.vtp
+Pacote nativo limpo: PUBLICACAO-LIMPA-NATIVA-20261104
+Configuração externa: 4.3.6-morada-do-sol-native-safe-r1
+
+Escopo aplicado:
+- 34 panoramas preservados e renomeados no projeto nativo.
+- Nomenclatura Quadra Poliesportiva aplicada aos ambientes pertinentes.
+- Categorias padronizadas: Geral, Entrada, Esporte, Educação e Alimentação.
+- Vista aérea ampla mantida como ambiente inicial.
+- Separadores visíveis normalizados para hífen.
+- Skin externa reintegrada somente no index.htm/index.html.
+- Barra mobile oculta durante o arraste e reaparece após 420 ms.
+- Controles não acionam a ocultação; desktop inalterado.
+
+Integridade do núcleo 3DVista:
+- script.js: BC1D1B755F01229915D097AC276F3EFD0DE0EB956B6D5F05682817AAEEF9A8C7
+- script_general.js: 80E6EB8264CCA4A96CDAF699CEE7E956A9FEE3DEEB8355C570E8016966B04DC1
+- lib/tdvplayer.js: 4E4409FAB2A2B46768CEEECE260E3FD28F00C301BA9395EF954F95434994F899
+- watermark: false
+
+Validação local:
+- 34 cenas, sem índices duplicados e com todas as miniaturas válidas.
+- Nenhum elemento visível Academic, Academy, Created by ou 3DVista após mais de 10 segundos.
+- Mobile 420 x 880: opacity 0/pointer-events none durante movimento e retorno a opacity 1/pointer-events auto.
+
+URL pública:
+https://mgtour360graus.github.io/sesc-morada-do-sol-araguaina/
