@@ -59,4 +59,4 @@ menuItem_C08C3299_D562_6E99_41AE_DF9E481C1673.label = BY MG TOUR 360 GRAUS
 tour.description = Tour Virtual 360°
 
 ### Title
-tour.name = Sesc Morada do Sol - Araguaína
+tour.name = Sesc Morada do Sol - Hugo de Carvalho

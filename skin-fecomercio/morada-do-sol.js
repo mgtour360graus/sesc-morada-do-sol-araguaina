@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  var title = 'Sesc Morada do Sol - Araguaína | Tour 360°';
+  var title = 'Sesc Morada do Sol - Hugo de Carvalho | Tour 360°';
   var titleElement = document.querySelector('title');
   var movementTimer = 0;
   var tracking = null;
